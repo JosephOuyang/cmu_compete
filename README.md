@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# HackCMU 2025 Project (CMU Compete)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
